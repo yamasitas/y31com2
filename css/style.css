@@ -364,7 +364,7 @@ footer {
 
 /*「Q」のテキスト*/
 .faq dt::before {
-	content: "Q.";			/*このテキストを表示させます*/
+	content: "＞";			/*このテキストを表示させます*/
 	position: absolute;
 	left: 0;
 	top: 0;
